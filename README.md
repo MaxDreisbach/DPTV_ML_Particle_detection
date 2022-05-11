@@ -9,3 +9,10 @@ The datasets used in this work, as well as the neural networks learned for parti
 https://bwsyncandshare.kit.edu/s/WxbXQDprSFmcHrQ
 
 If you have any questions regarding this code, feel free to contact Maximilian (maximilian.dreisbach@kit.edu).
+
+## Requirements
+- Working Tensorflow1 installation (see: https://github.com/tensorflow/models)
+
+## Getting Started
+- Run detection from the jupyter notebook M1_particle_detection_evaluate_results.ipynb
+
