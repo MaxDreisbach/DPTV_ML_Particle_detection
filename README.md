@@ -3,7 +3,7 @@ Particle detection by means of neural networks and synthetic training data refin
 
 by Maximilian Dreisbach (Institute of Fluid Mechanics (ISTM) - Karlsruhe Institute of Technology (KIT))
 
-This code allows the training of neural networks for particle detection in DPTV as well as the generation of refined synthetic training data as presented at in the MST special issue.
+This code allows the training of neural networks for particle detection on DPTV recordings as well as the generation of refined synthetic training data as presented in our contribution "Particle Detection by means of Neural Networks and Synthetic Training Data Refinement in Defocusing Particle Tracking Velocimetry" to the 2022 Measurement Science and Technology special issue on the topic “Machine Learning and Data Assimilation techniques for fluid flow measurements”.
 
 The datasets used in this work, as well as the neural networks learned for particle detection on these datasets are available here:
 https://bwsyncandshare.kit.edu/s/WxbXQDprSFmcHrQ
