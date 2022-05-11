@@ -11,11 +11,12 @@ https://bwsyncandshare.kit.edu/s/WxbXQDprSFmcHrQ
 If you have any questions regarding this code, feel free to contact Maximilian (maximilian.dreisbach@kit.edu).
 
 ## Requirements
-- Python 
+- Python (required packages below)
 - Working TensorFlow Object Detection API (see: https://github.com/tensorflow/models)
 
 ## Tested for: 
-- tensorflow==1.14.0 
+- Python 3.7
+- tensorflow-gpu==1.14.0 
 - keras==2.3.1
 - numpy==1.18.1
 - opencv-python==4.4.0.42
