@@ -25,5 +25,5 @@ If you have any questions regarding this code, feel free to contact Maximilian (
 - xlsxwriter==1.2.7
 
 ## Getting Started
-- Run detection from the jupyter notebook M1_particle_detection_evaluate_results.ipynb
+- Run detection from the "jupyter notebook M1_particle_detection_evaluate_results.ipynb"
 
