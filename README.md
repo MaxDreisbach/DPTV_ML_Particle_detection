@@ -17,6 +17,7 @@ If you have any questions regarding this code, feel free to contact Maximilian (
 ## Tested for: 
 - tensorflow-gpu==1.14.0 
 - keras==2.3.1
+- jupyter==1.0.0
 - numpy==1.18.1
 - opencv-python==4.4.0.42
 - pillow==7.0.0
