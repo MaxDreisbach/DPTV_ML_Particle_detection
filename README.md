@@ -11,7 +11,18 @@ https://bwsyncandshare.kit.edu/s/WxbXQDprSFmcHrQ
 If you have any questions regarding this code, feel free to contact Maximilian (maximilian.dreisbach@kit.edu).
 
 ## Requirements
-- Working Tensorflow1 installation (see: https://github.com/tensorflow/models)
+- Python 
+- Working TensorFlow Object Detection API (see: https://github.com/tensorflow/models)
+
+## Tested for: 
+- tensorflow==1.14.0 
+- keras==2.3.1
+- numpy==1.18.1
+- opencv-python==4.4.0.42
+- pillow==7.0.0
+- pandas==1.0.1
+- scipy==1.4.1
+- xlsxwriter==1.2.7
 
 ## Getting Started
 - Run detection from the jupyter notebook M1_particle_detection_evaluate_results.ipynb
