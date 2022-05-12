@@ -17,6 +17,7 @@ If you have any questions regarding this code, feel free to contact Maximilian (
 ## Tested for: 
 - tensorflow-gpu==1.14.0 
 - keras==2.3.1
+- ipykernel==5.5.6
 - jupyter==1.0.0
 - matplotlib==3.5.2
 - numpy==1.18.1
